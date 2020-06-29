@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90122623e7921d57986ec0e6dd0c7b03",
+    "revision": "aba53209f57ae1d97a0d7c35c807bd73",
     "url": "/react-piano/index.html"
   },
   {
